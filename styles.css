@@ -51,7 +51,7 @@ p {
   .banner {
     display: flex;
     height: 600px;
-    background-image: url(Images/skyscrapers.jpg);
+    background-image: url("Images/skyscrapers.jpg");
     padding-top: 50px;
     margin-top: 5px;
     margin-bottom: 5px;
@@ -123,7 +123,7 @@ p {
   }
 
   .team {
-    background-image: url(Images/blurred-road.jpg);
+    background-image: url("Images/blurred-road.jpg");
     padding-top: 70px;
     padding-top: 30px;
     display: flex;
